@@ -39,6 +39,9 @@ faster and more precise decisions across all key business functions.
 
 ## Screenshots
 
+### Data Model
+![Data Model](screenshots/00_data_model.png)
+
 ### Finance View
 ![Finance View](screenshots/01_finance_view.png)
 
