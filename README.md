@@ -4,7 +4,7 @@ A multi-view Power BI report consolidating data from SQL, Excel, and CSV
 sources into a unified performance dashboard across Finance, Sales,
 Marketing, Supply Chain, and Executive functions.
 
-🔗 **[View Live Dashboard](https://lnkd.in/gKzjRPHH)**
+🔗 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDZkZTNhMDQtZmU1OS00NTlmLWIzOTctZjJlZDZlYjM5NDAxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ---
 
